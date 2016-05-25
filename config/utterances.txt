@@ -1,0 +1,17 @@
+GetFoodType	about {Food} 
+GetFoodType	get the weight of a {Food} 
+GetFoodType	get the weight of {Food} 
+GetFoodType	how much does  {Food}  weigh
+GetFoodType	how much does a  {Food}  weigh
+GetFoodType	the weight of a {Food} 
+GetFoodType	the weight of {Food} 
+GetFoodType	to weigh {Food} 
+GetFoodType	to weigh a {Food} 
+GetFoodType	to weigh an {Food} 
+GetFoodType	what is the weight of  {Food} 
+GetFoodType	what is the weight of a  {Food} 
+GetFoodType	whats the weight of  {Food} 
+GetDescriptor	 {Descriptor} 
+GetAmount	 {Quantity} of {Measurement} 
+GetAmount	 {Quantity} {Measurement} 
+GetAmount	 {Measurement} 

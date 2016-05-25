@@ -1,0 +1,47 @@
+{
+  "intents": [
+    {
+      "intent": "AMAZON.HelpIntent", 
+      "slots": []
+    }, 
+    {
+      "intent": "AMAZON.StopIntent", 
+      "slots": []
+    }, 
+    {
+      "intent": "AMAZON.CancelIntent", 
+      "slots": []
+    }, 
+    {
+      "intent": "GetFoodType", 
+      "slots": [
+        {
+          "name": "Food", 
+          "type": "FOOD_TYPES"
+        }
+      ]
+    }, 
+    {
+      "intent": "GetDescriptor", 
+      "slots": [
+        {
+          "name": "Descriptor", 
+          "type": "FOOD_DESCRIPTORS"
+        }
+      ]
+    }, 
+    {
+      "intent": "GetAmount", 
+      "slots": [
+        {
+          "name": "Measurement", 
+          "type": "UNIT_OF_MEASUREMENT"
+        }, 
+        {
+          "name": "Quantity", 
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    }
+  ]
+}

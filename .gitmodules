@@ -1,0 +1,3 @@
+[submodule "ask-alexa-pykit"]
+	path = ask-alexa-pykit
+	url = git@github.com:hassanshamim/ask-alexa-pykit.git
